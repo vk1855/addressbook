@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "hello script"
+env=$1
+echo "This is env available"
